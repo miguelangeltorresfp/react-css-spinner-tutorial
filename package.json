@@ -1,0 +1,24 @@
+{
+  "name": "react-css-spinner-tutorial",
+  "version": "1.0.0",
+  "description": "CSS only spinner for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelangeltorresfp/react-css-spinner-tutorial.git"
+  },
+  "keywords": [
+    "rect",
+    "css",
+    "spinner"
+  ],
+  "author": "Miguel Angel Torres FP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelangeltorresfp/react-css-spinner-tutorial/issues"
+  },
+  "homepage": "https://github.com/miguelangeltorresfp/react-css-spinner-tutorial#readme"
+}
