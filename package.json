@@ -1,8 +1,10 @@
 {
-  "name": "react-css-spinner-tutorial",
+  "name": "react-css-spinners-tutorial",
   "version": "1.0.0",
   "description": "CSS only spinner for React",
-  "main": "index.js",
+  "main": "dist/bundle.cjs.js",
+  "module": "dist/bundle.esm.js",
+  "sideEffects": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/miguelangeltorresfp/react-css-spinner-tutorial.git"
