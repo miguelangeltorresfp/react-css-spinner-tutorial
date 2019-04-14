@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/miguelangeltorresfp/react-css-spinner-tutorial/issues"
   },
-  "homepage": "https://github.com/miguelangeltorresfp/react-css-spinner-tutorial#readme",
+  "homepage": "https://miguelangeltorresfp.github.io/react-css-spinners-tutorial/",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
@@ -37,6 +37,7 @@
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-standard": "^4.0.0",
+    "gh-pages": "^2.0.1",
     "husky": "^1.3.1",
     "jest": "^24.7.1",
     "lint-staged": "^8.1.5",
@@ -69,7 +70,9 @@
     "test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "test:staged": "jest -o",
     "storybook": "start-storybook -p 9001 -c storybook",
-    "storybook:build": "build-storybook -c storybook"
+    "storybook:build": "build-storybook -c storybook",
+    "predeploy": "npm run storybook:build",
+    "deploy": "gh-pages -d storybook-static"
   },
   "husky": {
     "hooks": {
