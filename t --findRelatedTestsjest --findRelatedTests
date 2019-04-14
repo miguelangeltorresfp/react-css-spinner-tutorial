@@ -1,0 +1,71 @@
+[33mcommit ed9be2ee624c85b5a0cfb84fe0128f9d6d817fd7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Sun Apr 14 00:29:51 2019 +0200
+
+    Run jest on pre-commit
+
+[33mcommit 9ef92ca2789b22848f33ba605d359f3d6e6108c1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Sat Apr 13 23:57:40 2019 +0200
+
+    Add jest snapshot tests
+
+[33mcommit 803c42a6a7aa7cd8346e7fcb2d96f6c7f8f21d18[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Sat Apr 13 22:10:39 2019 +0200
+
+    Add Storybook
+
+[33mcommit 7b45170e4d0e9140eca5c4696c2cd28cb47348c4[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Sat Apr 13 19:00:02 2019 +0200
+
+    Add cdn, cra, ssr examples
+
+[33mcommit 7c68936c2cc36b52242ba4abc001a26b93d8cfe5[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Sat Apr 13 18:59:14 2019 +0200
+
+    Add CSS spinners
+
+[33mcommit aa03162536edc217e2db5daaaa13caee16708933[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Sat Apr 13 03:13:34 2019 +0200
+
+    Components & Styling
+
+[33mcommit c0e8093ef33c904e745461ba08dd1f9506c3c408[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Sat Apr 13 01:32:37 2019 +0200
+
+    Add rollup and babel with react
+
+[33mcommit 421ee382e182a87ada3039c7487952d35bb13f14[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Fri Apr 12 22:00:42 2019 +0200
+
+    Fix lint-staged settings
+
+[33mcommit 46448a68082e29a93e3d5920c84447a85aba03ec[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Fri Apr 12 21:57:28 2019 +0200
+
+    Setup pre-commit hook
+
+[33mcommit fdc440bb697b1621d416ead2905b9472afbaf4b5[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Fri Apr 12 19:55:59 2019 +0200
+
+    Add eslint and prettier
+
+[33mcommit 04adf25905bd9750e96c32551ab3e25d906abcf3[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Mon Feb 11 01:45:05 2019 +0100
+
+    Init npm package
+
+[33mcommit 171f299f4c723391d218c57663be23bb922f9ced[m
+Author: Miguel Angel Torres FP <miguelangeltorresfp@gmail.com>
+Date:   Mon Feb 11 01:40:52 2019 +0100
+
+    Initial commit
