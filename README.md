@@ -1,5 +1,6 @@
 # react-css-spinners
 
+[![NPM version](https://img.shields.io/npm/v/react-css-spinners-tutorial.svg)](https://www.npmjs.com/package/react-css-spinners-tutorial)
 [![Build Status](https://travis-ci.com/miguelangeltorresfp/react-css-spinners-tutorial.svg?branch=master)](https://travis-ci.com/miguelangeltorresfp/react-css-spinners-tutorial)
 [![Coverage Status](https://coveralls.io/repos/github/miguelangeltorresfp/react-css-spinners-tutorial/badge.svg?branch=master)](https://coveralls.io/github/miguelangeltorresfp/react-css-spinners-tutorial?branch=master)
 
